@@ -1,10 +1,11 @@
-# Android Prework - *Name of App Here*
+# Android Prework - Hello World
 
-Submitted by: **Your Name Here**
+Submitted by: Miguel Amaro
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **2** hours spent in total
+Hello World is an android app that shows an image and introductory message, and allows pressing a button to display a Toast.
+
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -24,16 +25,22 @@ Here's a walkthrough of implemented features:
 
 <img src='https://github.com/MiguelAmaro/codepath-mobile/gifs/codepath_mobile.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with
+*screen recorder*
+[wcap](https://github.com/mmozeiko/wcap)
+*mp4 to gif converter*
+[ffmpeg](https://github.com/FFmpeg/FFmpeg)
+*helper script for starting ffmpeg and passing proper cmdl-options*
+[makegif.bat script](https://gist.github.com/MiguelAmaro/a5dc1885930c075384b288a4dcba49c1)
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had issues where the constraints were not valid and so I need to delete them and redo them again.
+There was also an issue with my.jpeg file not rendering on the page using the emulator despite it
+being visable in the preview. I decided to switch to a .png with was able to render. It was also a bit tricky
+to use the prng in kotlin but not too hard.
 
 ## License
 
