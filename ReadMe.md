@@ -27,12 +27,15 @@ Here's a walkthrough of implemented features:
 
 
 GIF created with
-*screen recorder*
-[wcap](https://github.com/mmozeiko/wcap)
-*mp4 to gif converter*
-[ffmpeg](https://github.com/FFmpeg/FFmpeg)
-*helper script for starting ffmpeg and passing proper cmdl-options*
-[makegif.bat script](https://gist.github.com/MiguelAmaro/a5dc1885930c075384b288a4dcba49c1)
+
+* screen recorder
+* [wcap](https://github.com/mmozeiko/wcap)
+
+* mp4 to gif converter
+* [ffmpeg](https://github.com/FFmpeg/FFmpeg)
+
+* helper script for starting ffmpeg and passing proper cmdl-options
+* [makegif.bat script](https://gist.github.com/MiguelAmaro/a5dc1885930c075384b288a4dcba49c1)
 
 
 ## Notes
