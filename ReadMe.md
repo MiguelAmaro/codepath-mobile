@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/MiguelAmaro/codepath-mobile/gifs/codepath_mobile.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/MiguelAmaro/codepath-mobile/blob/master/gifs/codepath_mobile.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with
